@@ -1,4 +1,4 @@
- # 11923_springboot755的新生宿舍管理系统.mp4
+ # 11923_springboot的新生宿舍管理系统
     
  
  # 项目资料包含：
@@ -9,7 +9,7 @@
  # 项目资料获取方式
  * 需要资料或者有任何问题的加QQ：2684634017
 
- * 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=11923
+ * 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=11923
  
  
  * 项目演示视频；https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/56%E5%A5%97-1-springboot%E5%BD%95%E5%83%8F/11923_springboot755%E7%9A%84%E6%96%B0%E7%94%9F%E5%AE%BF%E8%88%8D%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.mp4
